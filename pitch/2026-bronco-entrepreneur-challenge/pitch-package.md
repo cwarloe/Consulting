@@ -1,14 +1,14 @@
-# Practical Employee Development
+# Training to Results
 
-Charles Warloe · October 5, 2026 · Early Stage service venture
+Charles Warloe · October 5, 2026 · Early Stage service venture · Working name
 
 Provisional recommendation
 
 ## Pitch the service; use your projects to deliver it.
 
-**Help a growing business develop employees who can do important work independently, starting with one role and one costly performance gap.** The buyer is initially the owner or operations leader. A supervisor supplies job expertise and observes performance; an HR generalist may coordinate. Those are distinct roles in a purchase.
+**Help a business with about 50 employees fix one costly job-performance problem, using its own experts and an agreed measure of success.** The buyer is initially the owner or operations leader. The company supplies a subject matter expert and supervisor; an HR generalist or internal trainer may coordinate and sustain the process. Those are distinct roles in a purchase.
 
-Your Doxa experience, graduate work, and practical training methods give this direction a stronger starting point than a standalone product with an unclear payer. The offer still needs customer discovery. Existing service providers demonstrate competition, not demand for your particular service.
+Your reported recruiting pilot and Doxa founder collaboration supply two concrete examples of this approach. The first demonstrates performance on a live task; the second demonstrates working with domain experts. The offer still needs customer discovery. Existing service providers demonstrate competition, not demand for your particular service.
 
 | Idea | Use for October 25 | Unresolved question |
 | --- | --- | --- |
@@ -35,9 +35,9 @@ Optional application workshops are October 14, 4:30–5:30 p.m. in MBEB 2101 or 
 
 ### Initial customer
 
-An owner-led business that is adding people or teams, has recurring roles, and lacks dedicated learning and development staff. Industry and headcount are hypotheses to narrow through interviews.
+An owner-led business with about 50 employees, one HR generalist, and perhaps a recruiter or designated trainer. It has sufficient scale to fund help but limited training capacity. Industry and purchase urgency still need buyer interviews.
 
-**Buying trigger:** onboarding repeatedly consumes manager time, new hires cannot do a critical task independently, or avoidable mistakes and rework persist.
+**Buying trigger:** one recurring performance failure remains despite explanations or training and has a visible cost. Onboarding, sourcing, rework, and customer handoffs are examples to investigate; none is a mandatory entry product.
 
 ### Initial offer
 
@@ -72,13 +72,60 @@ The hypothesis is that the owner will pay for a better decision and a practical 
 
 For the first employee-development pilot, avoid outcome bonuses until baseline definitions, measurement periods, attribution, and customer responsibilities are agreed. Your older recruiting bonus structure does not automatically transfer to this offer.
 
+## Two experience cases and the new service
+
+Source: Charles Warloe's account on October 5, 2026, with earlier retrieved Doxa documents and email summaries as supporting context. The detailed results below have not been independently corroborated.
+
+### Recruiting: a live-work performance result
+
+Charles spent two days mapping recruiting processes and their relationship to business revenue, then selected one bottleneck: sourcing qualified candidates. He developed a six-hour training program. In the initial pilot, six participants each worked on a live requisition lacking candidates, practiced the steps, and completed a one-hour assessment to source five additional qualified candidates. Charles reports that all six achieved the objective. He repeated delivery in person and later adapted it for successful online delivery; cohort sizes and later counts are not established here.
+
+This is a concrete historical task-performance result. The definition of qualified, original records, employer and dates, later hiring outcomes, and durability still need confirmation. Do not infer 30 unique candidates, guaranteed hires, revenue gains, or repeatability in every domain.
+
+### Doxa Painting: using the founders' expertise
+
+Charles reports working with Doxa's two founders, whose expertise covered the work processes. Together they codified successful performance and built interview assessments, limited competency training/checks, and an ongoing training approach. His friend subsequently developed job sheets and standards for skills he regarded as critical. Charles describes the company at the time as having about eight to ten employees; his new target is closer to 50 employees.
+
+This supplies an experience example of collaborating with domain experts. The work was done as an employee. Doxa was later acquired and Coby took a leadership role in the acquiring company, according to Charles's account. That is company context; the available evidence does not establish that this intervention caused the acquisition.
+
+### What the client brings, and what you bring
+
+| Client | Charles |
+| --- | --- |
+| Domain expertise, real tasks and examples, performance standards, supervisor participation, access to work and results. | Performance diagnosis, extracting expert decisions, training design, realistic practice, performance aids, assessment, and follow-up measurement. |
+
+Capture one expert performing and explaining a real task, including exceptions and common errors. Use recordings, existing documents, and AI-assisted drafts where appropriate. Have the expert correct the workflow and validate the task standard. Pilot with employees on actual work, then hand the supporting tools to the supervisor or trainer. AI assistance is a proposed efficiency mechanism; savings in delivery effort have not yet been measured.
+
+### A bounded offer
+
+1. Select one painful, measurable problem with an owner and expert.
+2. Diagnose the gap and establish the baseline; redirect if the cause requires another intervention.
+3. Quote a focused implementation and agree client participation.
+4. Build and pilot practice on real work, with a defined proficiency check.
+5. Measure the chosen result, adjust, and equip the internal trainer to sustain it.
+
+The $1,450 diagnostic remains a price hypothesis; the implementation has its own scope and price. Immediate usefulness is the design aim. Timing, task outcomes, and any guarantee must be agreed for the specific problem and conditions.
+
+### Relationship to the 6Ds
+
+The proposed service draws on an established training-transfer tradition that Charles has used. It aims to serve a different buying situation: a company with about 50 employees, little training infrastructure, and one urgent task failure. The 6Ds Company also offers implementation consulting, so differences in customer, scope, and delivery are positioning hypotheses rather than proof of an uncontested market. The goal is compatible practice and possible referrals, with no claimed certification, endorsement, or formal partnership.
+
+Wiley publishes the books; public materials reviewed here do not establish that Wiley acquired Fort Hill. The 6Ds Company's current consulting page has no quoted project fee. Its workshop tuition is useful professional-development context, not a directly comparable custom-project price. Sources: [6Ds consulting](https://the6ds.com/consulting-2/) · [2026 workshop](https://the6ds.com/open-enrollment/) · [Wiley 2025 catalogue](https://application.wiley-vch.de/hjv/WileyEMEATradeCatalogue/WileyEMEATradeCatalogue_May2025.pdf).
+
+### Details to confirm for the application
+
+- Recruiting employer and dates; the criteria for a qualified candidate and any surviving materials, results, or colleague corroboration.
+- The Doxa task with the clearest before-and-after example: what staff could demonstrate, what the founders observed, and any record of changed time, quality, or independence.
+- Customer discovery with an owner near the new 50-person target, including expert availability, purchasing authority, and willingness to scope a pilot.
+
 ## What your existing work supports
 
 | Evidence | What it supports | What it does not establish |
 | --- | --- | --- |
 | Résumé and training experience | Master's degree in Instructional Design and Technology; corporate and military training experience; capability in needs analysis, design, and implementation. | Demand or willingness to pay for this specific new business. |
 | 2012 master's thesis | A training-transfer support portal involving managers, trainees, and trainers before and after classroom training. Alpha evaluation involved six participants; beta involved four. | The project was not rolled out alongside the planned class. Usability and knowledge findings do not prove improved job performance. |
-| Doxa work | Actual employee contribution to development tools, painter standards, operational reports, and job data. Emails show requests and collaboration. | A paid external consulting engagement, a validated fixed-fee offer, or quantified business outcomes attributable to you. |
+| Doxa work | Employee contribution to standards, development tools, recruiting processes, and reporting. Charles now describes working with both founders to turn their expertise into training and competency checks; records support collaboration. | A paid external consulting engagement, a validated fixed-fee offer, or quantified business outcomes attributable to you. |
+| Recruiting pilot | Charles reports all six initial participants met a live-work objective: five additional qualified candidates for a requisition in a one-hour assessment; the program was six hours. | Independent corroboration, longer-term proficiency, hiring results, revenue gains, or repeatability for every domain. |
 | Skis conversations and proposal | A business engaged you about recruiting, processes, assessment, and pricing. You developed a concrete offer. | The proposal was not implemented. The records do not show that price was the reason; the priority shifted toward sourcing. |
 | Narrative lessons and Excel examples | A tangible design approach you can demonstrate. | Other learners' results, buyer demand, or better transfer than conventional instruction. Only you have tried the story lessons. |
 | GitHub frameworks | Design resources and a body of development work. | Customer traction merely because a repository or prototype exists. |
@@ -107,6 +154,7 @@ Official service pages establish that this space has alternatives, including loc
 
 | Provider | Public positioning / offering | Implication for your venture |
 | --- | --- | --- |
+| The 6Ds Company | Provides training-transfer consulting and workshops. Its 2026 online workshop lists $1,695 per participant, or $1,450 each for two or more from the same company. | Methodological reference and potential source of professional development or referrals. Workshop tuition is not a consulting quote. Our proposed focus is direct implementation of one improvement at a roughly 50-person company; no affiliation is claimed. [Source](https://the6ds.com/open-enrollment/) |
 | Trainual | AI-assisted SOPs, training paths, tests, tracking, and guided implementation. Its pricing page lists a $1,000 one-time implementation fee; subscription pricing requires a quote. | Direct overlap. Diagnose a specific performance problem and help managers implement and evaluate the work; do not describe Trainual as just document storage. [Source](https://trainual.com/pricing) |
 | Scribe | Records a workflow and produces visual, step-by-step guides that can be shared or embedded. | Both an alternative for DIY documentation and a potential delivery tool. Making instructions alone is a weak distinction. [Source](https://get.scribehow.com/onboarding/) |
 | RadiantReach Strategy, Boise | Offers SOPs, internal documentation, team development, and onboarding support, including growing teams. | A local competitor with substantial overlap. Test the value of your specific diagnosis, practice, and manager follow-through; the niche is not empty. [Source](https://www.radiantreachstrategy.com/services) |
@@ -135,12 +183,12 @@ Define the initial industry and reachable geography, interview actual buyers, id
 
 ### 20-minute interview guide
 
-1. **Start with the last real case:** “Think about the last person you hired or moved into a new role. What were they expected to do, and where did they need the most help?”
+1. **Start with the last real case:** “Think about the most costly task people still struggle to do even after training. What was the last specific failure, and what should have happened?”
 2. “Who taught them? How long before they could do the important tasks independently? What happened when they got stuck?”
 3. “Give me a recent example of a mistake, rework, or repeated explanation. What did it cost in time, money, delays, or customer impact?” Ask how that estimate was derived.
 4. “What have you tried—shadowing, SOPs, software, outside help? What worked? What still failed?”
 5. “Have you spent money solving this before? Who approved it? What would make it urgent this month or quarter?”
-6. **Only now present the offer:** “I'm exploring a focused assessment of one role and one problem, followed by a practical implementation if warranted. It would involve you and a supervisor. The initial price I'm testing is $1,450.”
+6. **Only now present the offer:** “I'm exploring a focused assessment of one role and one costly performance problem, followed by implementation if warranted. It would involve you, your subject matter expert, and a supervisor. The initial price I'm testing is $1,450.”
 7. “How would you decide whether that is worth buying? What would the assessment need to produce? What would prevent you from doing it?” Avoid treating politeness as willingness to pay.
 8. “Would a next step make sense: reviewing a sample, scoping an actual problem, involving the decision maker, or none of those?” Record the action they choose.
 
@@ -153,10 +201,11 @@ Copy this into your preferred notes app. Text typed here is not saved or sent.
 ```text
 Date / business / respondent role:
 Approximate headcount and current training owner:
-Last hire or role change / concrete task:
+Highest-priority recurring failure / concrete task:
 Recent failure or coaching example:
 Baseline (number + unit + period + source):
-Existing approach and prior spending:
+Existing training, actual result, and prior spending:
+Available subject matter expert / supervisor / trainer:
 Buying authority / budget process / urgency:
 Reaction to scope, price, and participation burden:
 Chosen next step / date / owner:
@@ -180,7 +229,7 @@ Subject: Quick review of the Doxa work and a business idea
 
 Hi Coby,
 
-I'm preparing an early-stage business pitch for Boise State. The idea is helping growing businesses without a training department turn important job tasks into practical employee development: clear standards, useful job aids, practice, and manager follow-up.
+I'm preparing an early-stage business pitch for Boise State. The idea is helping growing businesses with about 50 employees and limited training capacity turn important job tasks into one measurable job-performance improvement: clear standards, real-work practice, useful job aids, and manager follow-up.
 
 Could we spend 20 minutes on two things? First, I'd like to confirm which parts of the Doxa learning and development work you actually used, what you found useful, and whether there is an example or result I can accurately describe. Second, I'd value your view on where growing businesses struggle most to get employees working independently—and whether a focused paid assessment would help.
 
@@ -195,7 +244,7 @@ Subject: A short follow-up on employee development
 
 Hi Anna,
 
-I'm refining a small-business employee development service for a Boise State pitch. Our Skis discussions were helpful, and I'd appreciate 20 minutes to understand what happened after the assessment proposal, how priorities changed, and what would have made outside help easier to use.
+I'm refining a small-business training and performance service for a Boise State pitch. Our Skis discussions were helpful, and I'd appreciate 20 minutes to understand what happened after the assessment proposal, how priorities changed, and what would have made outside help easier to use.
 
 I'm especially interested in one recent onboarding or employee performance problem, the supervisor time involved, and how the business decides whether to buy support. The idea I'm testing starts with one role and one problem rather than a broad training program.
 
@@ -225,7 +274,7 @@ Subject: Advice on an early-stage employee development service
 
 Hello,
 
-I'm preparing a Boise State entrepreneurship application for October 25. My proposed service helps growing businesses without a training department address one employee performance problem through diagnosis, practical job aids and practice, and supervisor follow-up.
+I'm preparing a Boise State entrepreneurship application for October 25. My proposed service helps growing businesses with about 50 employees and limited training capacity address one employee performance problem through diagnosis, practical job aids and practice, and supervisor follow-up.
 
 I have relevant training experience and prior work inside a painting business, but the new service and price are not validated. I'm testing a $1,450 diagnostic with implementation priced separately.
 
@@ -277,68 +326,68 @@ Use two varied cases and the same observable standard. Record missing essential 
 
 Before use, sample several actual handoffs and record preparation time, missing details, and clarification loops. After adoption, sample comparable work. Keep case difficulty and workflow changes in view. Avoid attributing every improvement to the lesson. Ask a supervisor and one learner whether the aid helps or adds friction.
 
-Your Crew Bonus Excel story is another possible demonstration, especially if the target task involves a spreadsheet. Do not build a large course until interviews identify a relevant task and a buyer.
+Your historical recruiting and Doxa cases are the primary experience examples. The generic handoff lesson above is a design sample. Your Crew Bonus Excel story is another possible demonstration, especially if the target task involves a spreadsheet. Do not build a large course until interviews identify a relevant task and a buyer.
 
 ## Application answers and one-page summary
 
 | Field | Answer |
 | --- | --- |
 | Track | Early Stage |
-| Startup/team name | Practical Employee Development (working name; confirm before submission) |
+| Startup/team name | Training to Results (working name; confirm before submission) |
 | Name / full name | Charles Warloe (confirm preferred application name) |
 | Your email | Supply the address where you want decisions and scores. |
 | BSU email / major | Supply your current BSU email and major as entered at Boise State. |
 | Team names / emails | n/a if applying solo |
 | Category | Service |
-| One sentence | I help growing businesses without a training department build practical employee development systems that turn critical job tasks into repeatable performance and reduce dependence on constant manager coaching. |
+| One sentence | I help businesses with about 50 employees work with their own experts to solve one costly job-performance problem through focused training, practical support, and measurable results. |
 | Uploads | One-page PDF and MP4 video ≤90 seconds. |
 
 The PDF and editable Word version contain the following summary. Update the customer and evidence after interviews; none are invented here.
 
-### Customer and problem
+### Customer and buying trigger
 
-Our initial customer is an owner or operations leader at a growing small or medium business with recurring employee roles, no dedicated training department, and limited HR support. The first problem to investigate is repeated manager coaching during onboarding: employees receive explanations but still struggle to perform critical tasks independently. Owners, supervisors, and employees would each participate; the owner or operations leader would authorize the purchase.
+The initial customer is an owner or operations leader at a business with about 50 employees, one HR generalist, and perhaps a recruiter or designated trainer, but no substantial training department. The buying trigger is one costly, recurring job-performance failure that existing training has not resolved. The business must have a subject matter expert and supervisor available to help define and test successful work.
 
-### Service and delivery
+### Offer and delivery
 
-Practical Employee Development is a consulting service that starts with one role and one performance problem. A diagnostic defines successful work, examines the cause of the gap, and recommends whether training, a clearer process, or another change is needed. A subsequent implementation project can combine job aids, worked examples, realistic practice, and supervisor follow-up using the customer's existing tools. Narrative lessons are one delivery option.
+Start with the highest-priority problem that is measurable and feasible to address. A diagnostic defines the required result and checks whether the cause is a skill gap, a process or tool problem, or another barrier. If training is appropriate, a separately scoped pilot combines expert knowledge, practice on real work, performance aids, and supervisor follow-up. AI can assist capture and drafting; the client expert validates accuracy and performance standards.
 
 ### Benefits and measurement
 
-The primary benefit is less dependence on repeated supervisor coaching. Each pilot would establish a baseline and measure coaching hours, time to independent work, or rework. For scale, five supervisor hours per week at an assumed $50 per hour over 50 weeks represents $12,500 of annual time cost. This is an illustrative scenario, not an observed customer loss or a promised saving.
+The intended benefit is better job performance that helps protect or generate revenue, reduce rework, or free supervisor time. Agree a baseline, observable performance standard, and follow-up measure before building the intervention. Revenue or hiring outcomes require their own evidence; successful task completion is an intermediate result. Each engagement starts with one problem and can expand after results are reviewed.
 
-### Payment and competition
+### Relevant results and experience
 
-The initial pricing hypothesis is a $1,450 fixed-price diagnostic for one role and one problem, with a 10-18-hour internal effort budget. Implementation would be quoted separately after scope is clear. Alternatives include managers training informally, SOP and training platforms such as Trainual, and operations or learning consultants. Our proposed focus is affordable, hands-on diagnosis and implementation for a business building its first training function. Buyer interviews must establish whether that focus is valuable.
+Charles Warloe holds a master's degree in Instructional Design and Technology and has corporate and military training experience. He reports designing a six-hour recruiting program whose initial six-person pilot used live requisitions: all six met the objective of sourcing five additional qualified candidates in a one-hour assessment. He also reports successful subsequent in-person and online delivery. At Doxa Painting, he worked with two founders to codify successful work and build interview assessments, competency checks, and training; a founder developed critical-skill job sheets and standards.
 
-### Founder, progress, and next test
+### Business model and next validation
 
-Charles Warloe holds a master's degree in Instructional Design and Technology and has experience in corporate and military training. His employee work at Doxa Painting included development tools, skills standards, and operational reporting. A later Skis consulting proposal was not implemented. These experiences support delivery capability; they do not establish demand for this new offer. The next test is customer interviews followed by a review of one sample workflow, seeking a buyer willing to scope a paid pilot.
+The pricing hypothesis is a $1,450 diagnostic for one role and one problem, with implementation quoted separately. Alternatives include internal trainers, training platforms, and performance consultants. The proposed focus is hands-on implementation for a business with limited training capacity, informed by established training-transfer methods. Historical results are founder-reported, and the Doxa work was as an employee. Next: corroborate the case details, interview buyers near the target size, and scope one paid pilot.
 
 ### How this addresses the ten preparation questions
 
 1. Customer groups: owner/operations buyer, supervisor/HR participants, employee users.
-2. Primary customer: growing business without a dedicated training department.
-3. Problem: repeated coaching and slow independent performance.
-4. Problem magnitude: a clearly labeled time-cost scenario; replace with a buyer's documented baseline when possible.
-5. Business name: Practical Employee Development, working name.
+2. Primary customer: growing business with about 50 employees and limited training capacity.
+3. Problem: one costly, recurring performance failure that existing training has not resolved.
+4. Problem magnitude: obtain a documented baseline and cost from the buyer; the historical recruiting task has a measurable result.
+5. Business name: Training to Results, working name.
 6. Category: Service.
 7. Benefits: practical work methods, independence, less coaching and rework.
 8. Primary benefit magnitude: baseline and follow-up in hours, time to independence, or rework; no invented effect size.
 9. Competition: DIY manager training, platforms, and operations/learning consultants.
-10. Difference: a focused first training function and hands-on performance implementation; still a hypothesis to test.
+10. Difference: one focused performance improvement using client experts, hands-on implementation, and existing tools; buyer value remains to be tested.
 
 ## Your pitch script
 
-**180 words.** At 140 words per minute, this is approximately 77 seconds. Time a spoken rehearsal; pauses count. Aim for 80–85 seconds, and keep the final MP4 at or below 90 seconds.
+**176 words.** At 140 words per minute, this is approximately 75 seconds. Time a spoken rehearsal; pauses count. Aim for 80–85 seconds, and keep the final MP4 at or below 90 seconds.
 
-Hi, I'm Charles Warloe. Growing businesses often reach a point where experienced employees keep explaining the same tasks, but new hires still need constant help. The owner knows the company needs a better way to develop people, yet there is no dedicated training department.
+Hi, I'm Charles Warloe. I help businesses with about fifty employees solve one costly job-performance problem when their existing training isn't producing the result they need.
 
-Practical Employee Development starts with one role and one costly performance problem. I work with the owner and a supervisor to define successful work, understand the cause of the gap, and decide whether training is actually the answer. Then I build a practical system: clear job aids, realistic practice, and supervisor follow-up that helps employees become more independent.
+I start with the owner and a subject matter expert. We define successful work, find the obstacle, and decide whether training will help. Then we build focused practice on real tasks, useful job aids, and supervisor follow-up. We measure the result the business actually needs.
 
-The proposed business model starts with a fixed-price diagnostic, followed by a separately scoped implementation project. We measure results through time to independent work, supervisor coaching hours, or rework, depending on the business.
+I've used this approach before. In a recruiting pilot, all six participants met the objective: source five additional qualified candidates for a live requisition in one hour. At Doxa Painting, I worked with the founders to turn their expertise into job standards, competency checks, and training.
 
-I have a master's degree in instructional design and experience building employee development tools, including work inside Doxa Painting. My next step is to interview independent business owners and test a small pilot. This is an early-stage service focused on measurable work and employee independence.
+The new business applies that method to a larger small company. The proposed model starts with a paid diagnostic, followed by separately priced implementation. The company supplies domain expertise; I supply training design and evaluation. AI can help us capture expertise and create supporting materials. My next step is to validate a focused paid pilot with an independent business.
 
 Record a simple direct-to-camera video. Use clear sound and a steady frame. A brief view of the sample can help, but production polish is secondary to a clear buyer, problem, solution, and business model. The script is honest about the current stage; revise the final paragraph with actual discovery findings before recording if available.
 
