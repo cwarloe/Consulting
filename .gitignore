@@ -1,0 +1,19 @@
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Office / LibreOffice lock and temp files created while a document is open
+~$*
+.~lock.*#
+
+# Large pitch recordings: keep the MP4 out of git history.
+# Remove this line if you decide to publish the final video here.
+*.mp4
+
+# This repository is public. Keep raw buyer-interview notes and personal
+# contact details in a local private/ folder (never committed) unless
+# approved for publication.
+private/
